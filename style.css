@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    padding: 20px;
+    padding-bottom: 300px;
+}
+
+#tempo {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.btn button{
+    padding: 50px;
+    border: none;
+    background: green;
+    color: aliceblue;
+    border-radius: 100px;
+    transition: all .3s ease-in;
+}
+
+.btn button:hover {
+    background: rgb(25, 25, 25);
+}
+
+.tudo {
+    text-align: center;
+}
